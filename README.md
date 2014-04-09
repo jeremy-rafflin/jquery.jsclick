@@ -6,7 +6,7 @@ jquery.jsclick permet de faire un click navigateur via jQuery. Par défaut un tr
 
 
 Utilisation :
-```ruby
+```javascript
 $("a").jsClick();
 ```
     
